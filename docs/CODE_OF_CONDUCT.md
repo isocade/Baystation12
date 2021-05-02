@@ -4,7 +4,7 @@ In order to foster a more healthy, productive and friendly contributing environm
 
 ## Rules
 The following conduct may result in a warning being logged against your account:
-* Low-effort comments. ('No.')
+* Low-effort comments. ('Lol.')
 * Derogatory comments.
 * Trolling.
 * Inappropriate content.
