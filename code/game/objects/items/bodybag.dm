@@ -33,7 +33,7 @@
 	icon = 'icons/obj/closets/bodybag.dmi'
 	closet_appearance = null
 	open_sound = 'sound/items/zip.ogg'
-	close_sound = 'sound/items/zip.ogg'
+	close_sound = 'sound/items/bikehorn.ogg'
 	var/item_path = /obj/item/bodybag
 	density = FALSE
 	storage_capacity = (MOB_MEDIUM * 2) - 1
